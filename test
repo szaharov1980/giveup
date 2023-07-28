@@ -1,0 +1,6 @@
+--test
+var = test
+
+for if 0 and 10 {
+test
+}
